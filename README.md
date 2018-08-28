@@ -11,7 +11,7 @@ Useful to create labyrinths, complex terrains or intricated pathways and scenari
 
    Instructions: 
    When the execution starts, it generates an apparentely 'chaotic' image. Proceed with a "Print Screen" and 
-   open on Photoshop. Zoom in the image between 800 to 1000 times. Choose a region/sector 
+   open it on Photoshop. Zoom in the image between 800 to 1000 times. Choose a region/sector 
    of the image (that you think has an interesting pattern) and cut it and save as RAW file
    (PRAW / 8BIM / No intercaleted order) and open it as  a 'highmap' in your game engine (Unity, Unreal Engine etc.). 
 
