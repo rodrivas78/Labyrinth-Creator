@@ -1,7 +1,7 @@
 # Labyrinth-Creator-
 Useful to create labyrinths, complex terrains or intricated pathways and scenarios.
 
-/**
+
 *  Labyrinth Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
 
    Useful to create labyrinths, complex terrains or intricated pathways and scenarios.
@@ -26,5 +26,3 @@ Useful to create labyrinths, complex terrains or intricated pathways and scenari
    
    For more information, see:
    ecosplatonicos.blospot.com.br
-*
-*/
