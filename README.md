@@ -21,8 +21,6 @@ Useful to create labyrinths, complex terrains or intricated pathways and scenari
    z=x1+y1  [or] z=(x1-y1+c1)+(2*x*y+c2)  [or]  z=(x*x+y*y)+(c1+c2)  
    yF=yF=(2*x^2)*y+c2   [or]   yF=2*x*y+c2  
    ->>Do not forget to resize the image to the same size of the terrain before creating the RAW file<<-
-
-  Any problem, critics or suggestions, contact me:  rrivas2009@gmail.com
    
    For more information, see:
    ecosplatonicos.blospot.com.br
