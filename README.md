@@ -1,5 +1,5 @@
 # Maze-Creator
-Useful to create labyrinths, complex terrains or intricated pathways and scenarios.
+Useful to create mazes, complex terrains or intricated pathways and scenarios.
 
 
 *  Maze Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
