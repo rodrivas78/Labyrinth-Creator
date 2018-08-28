@@ -2,7 +2,7 @@
 *  Labyrinth Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
 
    You can use to create labyrinths, complex terrains or intricated pathways and scenarios.
-   It is not intended to generate 'standart' labyrinths (for that search for Prim's algorithm or Eller´s algorithm).
+   It is not intended to generate 'standart' labyrinths (for that search Prim's or Eller´s algorithm).
    When used with Photoshop (for post-processing the generated image, not as plug-in) becomes very good to create 
    natural/organic/fractured terrains or patterns (see example images). 
 
