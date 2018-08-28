@@ -1,7 +1,7 @@
 /**
-*  Labyrinth Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
+*  Maze Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
 
-   You can use to create labyrinths, complex terrains or intricated pathways and scenarios.
+   You can use to create mazes, complex terrains or intricated pathways and scenarios.
    It is not intended to generate 'standart' labyrinths (for that search for Prim's or Eller´s algorithm).
    When used with Photoshop (for post-processing the generated image, not as plug-in) becomes very good to create 
    natural/organic/fractured terrains or patterns (see example images). 
@@ -130,7 +130,7 @@ int main(int iArgc, char** cppArgv) {
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(1000, 1000);
 	glutInitWindowPosition(200, 200);
-	glutCreateWindow("Labirynth Creator");
+	glutCreateWindow("Maze Creator");
 	Initialize();
 	glutDisplayFunc(Draw);
 	glutIdleFunc(update);
