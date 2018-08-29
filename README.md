@@ -16,6 +16,7 @@
 
    Tips:
    To achieve a more organic or natural result, apply (artistic) filters in Photoshop.
+   
    For variations you can tweak some variables: 'zoom', 'w', 'yF', 'xF' and 'z' (see optional formulas below).
    z=x1+y1  [or] z=(x1-y1+c1)+(2*x*y+c2)  [or]  z=(x*x+y*y)+(c1+c2)  
    yF=yF=(2*x^2)*y+c2   [or]   yF=2*x*y+c2  
