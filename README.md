@@ -4,8 +4,8 @@
 
    Useful to create mazes, complex terrains or intricated pathways and scenarios.
    It is not intended to generate 'standart' labyrinths (for that search for Prim's algorithm or Eller´s algorithm).
-   When used with Photoshop (for post-processing the generated image, not as plug-in) becomes very good to create 
-   natural/organic/fractured terrains or patterns (see example images). 
+   When used with Photoshop (for post-processing the generated image, not as plug-in) becomes effective to create 
+   natural/organic/fractured terrains, like canyons and so on (see example images). 
 
    Instructions: 
    When the execution starts, it generates an apparentely 'chaotic' image. Proceed with a "Print Screen" and 
