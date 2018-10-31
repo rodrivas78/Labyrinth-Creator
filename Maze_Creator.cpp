@@ -3,7 +3,7 @@
 
    You can use to create mazes, complex terrains or intricated pathways and scenarios.
    It is not intended to generate 'standart' labyrinths (for that search for Prim's or Eller´s algorithm).
-   When used with Photoshop (for post-processing the generated image, not as plug-in) becomes very good to create 
+   When used with Photoshop (for post-processing the generated image, not as plug-in) becomes useful to create 
    natural/organic/fractured terrains or patterns (see example images). 
 
    Instructions: 
