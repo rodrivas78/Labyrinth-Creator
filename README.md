@@ -1,6 +1,6 @@
-# Maze-Creator
+# Maze-Generator
 
-*  Maze Creator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
+*  Maze Generator  v.1.3 -  by  rodrivas78  -  C++ / OpenGL / glut
 
    Useful to create mazes, complex terrains or intricated pathways and scenarios.
    It is not intended to generate 'standart' labyrinths (for that search for Prim's algorithm or Eller´s algorithm).
